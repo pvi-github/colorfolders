@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "applications": {
+    "gecko": {
+      "id": "colorfolders@fisheater.com",
+      "strict_min_version": "68.0"
+    }
+  },
+  "name": "Color Folders",
+  "description": "Colour Folder Treeview Icons.",
+  "version": "1.2",
+  "icons": {
+    "32": "content/colorfolders.png"
+  },
+  "legacy": {
+    "type" : "xul",
+    "options": {
+      "page": "chrome://colorfolders/content/options.xul"
+    }
+  }
+}
