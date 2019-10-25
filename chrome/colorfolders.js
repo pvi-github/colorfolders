@@ -1,11 +1,5 @@
-//
-// Color Folders v1.0
-// Color Folders v1.1
-//   Modified to follow the API change in Gecko 22 and onwards
-//   (NB: TB replaced Gecko 17 with "24" at TB 24)
-//   thanks so much to Strim for providing thie modification.
-// Copyright(c) 2011-2013 fisheater
-//
+// TODO : Add license
+// Copyright(c) 2011-2013 fisheater, 2019-2021 pvi-github
 
 if(!com) var com = {};
 if(!com.fisheater) com.fisheater = {};

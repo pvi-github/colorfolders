@@ -3,11 +3,12 @@
 <!DOCTYPE overlay SYSTEM "chrome://colorfolders/locale/colorfolders.dtd">
 
 <!--
-// Color Folders v1.0
+// Color Folders v1.2
 // Copyright(c) 2011 fisheater
+//              2019 pvi-github
 -->
 
-<overlay id="colorfolders-overlay"
+<overlay id="colorFoldersOverlay"
 	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
 
 	<window id="messengerWindow">
